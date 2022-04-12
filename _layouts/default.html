@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    {% include head-custom.html %}
+
+{% seo %}
+  </head>
+
+  <body>
+
+    <header>
+      <div class="container">
+        <a id="a-title" href="{{ '/' | relative_url }}">
+          <h1>{{ site.title | default: site.github.repository_name }}</h1>
+        </a>
+        <h2>{{ site.description | default: site.github.project_tagline }}</h2>
+
+        <section id="downloads">
+          <a href="{{ site.linkedin.url }}" class="btn"><span class="icon"><img src="assets/images/linkedin.svg"></span>LinkedIn</a>
+          <a href="{{ site.github.repository_url }}" class="btn btn-github"><span class="icon"></span>GitHub</a>
+        </section>
+        <section id="info-section">
+          <ul class="info">
+            <li><i class="fa fa-envelope" aria-hidden="true"></i><a href="mailto:npappas@uth.gr">npappas@uth.gr</a></li>
+            <li><i class="fa fa-map-marker"></i><span>Athens, Greece</span></li>
+            <li><i class="fa fa-birthday-cake" aria-hidden="true"></i><span>1995</span></li>
+          </ul>
+
+        </section>
+      </div>
+    </header>
+
+    <div class="container">
+      <section id="main_content">
+        {{ content }}
+      </section>
+    </div>
+
+    <footer>
+      <div class="container">
+        <ul>
+          <li>Made with <a href="https://jekyllrb.com/">Jekyll</a></li>
+          <li>Used <a href="https://github.com/pages-themes/hacker">Hacker Theme</a></li>
+          <li>Deployed with the help of GitHub <i class="fa fa-heart"></i></li>
+        </ul>
+      </div>
+      
+    </footer>
+  </body>
+</html>

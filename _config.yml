@@ -1,0 +1,10 @@
+title: Nikos Pappas
+description: Curriculum Vitae
+github: 
+  repository_url: https://github.com/libpoet1312/libpoet1312.github.io
+linkedin:
+  url: https://www.linkedin.com/in/nikolaospappas1312/
+plugins: 
+  - jekyll-seo-tag
+  - jekyll-remote-theme
+remote_theme: pages-themes/hacker@v0.2.0
