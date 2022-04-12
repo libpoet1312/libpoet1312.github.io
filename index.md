@@ -31,7 +31,7 @@ layout: default
 
 > Developing Progressive Web Applications using ReactJs for use with the Magento e-shop framework.
 
-- Progressive Web Applications [ React ]
+- Progressive Web Applications [ ReactJs (`Javascript`) ]
 - Magento
 
 ### - April 2020 - November 2021
@@ -40,7 +40,7 @@ layout: default
 
 > Design, implement and deploy a website for the department of Primary Education of University of Thessaly
 
-- Django
+- Django (`Python`)
 - Javascript
 
 ### June 2018 - September 2018
