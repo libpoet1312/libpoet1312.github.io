@@ -5,25 +5,49 @@ layout: default
 ## `whoami`
 
 ```shell
-  Software engineer / Full stack web developer
+Software engineer / Junior DevOps engineer
 ```
 
 ## `ls exp`
 
-### - April 2021 - Present
+### - March 2023 - Present
+
+#### __<a href="https://ebrains.eu/" target="_blank">EBRAINS 2.0</a> & <a href="https://www.athenarc.gr/" target="_blank">Athena Research & Innovation Center</a>, DevOps Engineer__
+
+> Contributing on EBRAINS 2.0 EU funded project, an open research infrastructure that gathers data, tools and computing facilities for
+brain‑related research.
+
+### - April 2021 - March 2023
+
+- Developing Continuous Integration and continuous deployment pipelines with Gitlab CI/CD
+- Experience with orchestrating technologies such as Kubernetes (Rancher-rke2 clusters)
+- Familiar with Helm packaging tool
+- Implementing automation pipelines with Ansible and Bash
+- Infrastructure as code using Terraform and Ansible (IaC)
+- Dockerize applications
+- Little experience with Prometheus monitoring stack
+
+### Freelancer, Full Stack Developer
+
+- Developing and deploying web applications ‑ `Wordpress`
+- Familiar with open access repositories as `DSpace`
+- Experience `Vue3` and `ReactJS` frameworks
 
 #### __<a href="https://grnet.gr/" target="_blank">Greek Research & Technology Network</a>, Full Stack Developer__
 
 > Contributing on the digital transformation of the greek state
 
-- Developing and deploying web applications
-  - [ MediaWiki (`PHP`) ]
-  - [ `Vanilla JavaScript & jQuery` ]
-  - [ Laravel and vanilla `PHP` ]
-  - [ Flask & FastAPI (`Python`) ]
-- API gateway [ Kong ]
-- Web servers [ Nginx, Apache2 ]
-- Docker
+- Support/maintenance/development of a MediaWiki installation and development of various MediaWiki extensions - `PHP`
+- Develop and maintenance API with Laravel Framework ‑ `PHP`
+- Frontend applications development using `Vanilla Javascript` and other JS libraries as `JQuery`
+- Develop APIs with Flask and FastAPI ‑ `Python`
+- Build python scripts to interact and manipulate data from MediaWiki
+- Configure and support `Kong API Gateway`
+- Basic SysAdmin Operations. Configure web servers(`nginx`/`apache`), proxies, firewalls(`ufw`) and ports.
+- Distributed Systems [ Docker instrumentation and basic knowledge of Kubernetes ]
+- API testing [ JMeter, Postman, Swagger ]
+- Monitoring Stack [ Prometheus, Grafana ]
+- Load testing [ Locust ]
 
 ### - October 2020 - April 2021
 
@@ -69,12 +93,12 @@ mobile app.
 > \*\*\*\*\- Javascript <br>
 > \*\*\*\*\- Python <br>
 > \*\*\*\*\- PHP <br>
-> \*\*\*\-\- C <br>
+> \*\*\-\-\- C <br>
 > \*\*\-\-\- Java <br>
 
 ### Frameworks
 
-> \*\*\*\*\- Django <br>
+> \*\*\*\-\- Django <br>
 > \*\*\*\*\- Flask <br>
 > \*\*\*\-\- React <br>
 > \*\*\*\-\- MediaWiki <br>
@@ -94,18 +118,16 @@ mobile app.
 
 ### Other
 
-> \*\*\*\-\- Docker <br>
+> \*\*\*\*\- Docker <br>
 > \*\*\*\-\- Linux Distros <br>
 > \*\-\-\-\- Bash scripting
 
 ## `find hobbies`
 
-- Anonymity - Privacy & Tor Network
-- Script kiddie
 - Poetry
-- Volunteer in teams helping refuggees
-- Book eater
-  
+- Volunteer in teams helping refugees
+- Firefighter Volunteer
+
 ## `grep locales`
 
 - Greek (native)
